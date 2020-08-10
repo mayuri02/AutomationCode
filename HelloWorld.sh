@@ -8,3 +8,4 @@ do
 	((count++))
 done
 #Added a comment in commit 2
+#added this
