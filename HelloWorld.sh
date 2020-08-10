@@ -7,3 +7,4 @@ do
 	fi
 	((count++))
 done
+#Added a comment in commit 2
